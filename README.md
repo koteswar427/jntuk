@@ -1,0 +1,2 @@
+# jntuk
+all univ results
